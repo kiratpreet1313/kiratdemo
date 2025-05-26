@@ -1,4 +1,4 @@
 # kiratdemo
 This is my first Git repository
 <br>
-author Kiratpreet Singh
+author Kiratpreet Singh Khalsa
